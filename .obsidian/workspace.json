@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f8735bd9229ff93",
+            "id": "a481c9949e47588b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16酒店的房间又宽敞又明亮.md",
+                "file": "语法/四大句型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16酒店的房间又宽敞又明亮"
-            }
-          },
-          {
-            "id": "b448108a33ae315f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18手机变小了许多.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18手机变小了许多"
-            }
-          },
-          {
-            "id": "24d7e39c57a2ef91",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "四大句型"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "19请不要忘记房间的钥匙(未然形).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "19请不要忘记房间的钥匙(未然形) 的反向链接列表"
             }
           },
           {
@@ -137,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "19请不要忘记房间的钥匙(未然形).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "19请不要忘记房间的钥匙(未然形) 的出链列表"
             }
           },
           {
@@ -165,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "19请不要忘记房间的钥匙(未然形).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "19请不要忘记房间的钥匙(未然形) 的大纲"
             }
           }
         ]
@@ -190,17 +168,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "24d7e39c57a2ef91",
+  "active": "a481c9949e47588b",
   "lastOpenFiles": [
-    "单词学习打卡.md",
+    "19请不要忘记房间的钥匙(未然形).md",
+    "语法/四大句型.md",
+    "语法",
+    "文件",
+    "20.md",
     "18手机变小了许多.md",
+    "学习打卡.md",
+    "单词表格模版.md",
     "assets/18-1.png",
     "10京都的红叶很有名.md",
     "17我想要新的西服.md",
     "16酒店的房间又宽敞又明亮.md",
     "15小野正在看报纸.md",
     "assets/17-1.png",
-    "单词表格模版.md",
     "README.md"
   ]
 }
